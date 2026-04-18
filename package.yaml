@@ -1,0 +1,10 @@
+name: "yolo_onnx"
+version: "0.1.0"
+description: "YOLOv11n and YOLOv8n-pose ONNX models for hand detection and pose estimation"
+maintainers:
+  - name: "fins"
+    email: "fins@sjtu.edu.cn"
+depends:
+  OpenCV: "system"
+licenses:
+  - "MPL-2.0"
