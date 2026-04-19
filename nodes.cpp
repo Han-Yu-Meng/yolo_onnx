@@ -7,4 +7,4 @@
 #include "yolo_node.hpp"
 #include "yolo_handpose_node.hpp"
 
-DEFINE_PLUGIN_ENTRY()
+DEFINE_PLUGIN_ENTRY(fins::STATELESS)
